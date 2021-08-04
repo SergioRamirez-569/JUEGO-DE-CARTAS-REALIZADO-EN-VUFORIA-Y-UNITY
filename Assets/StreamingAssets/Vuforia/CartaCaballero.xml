@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="cartaPoligono" size="3.000000 4.367542" />
+    <ImageTarget name="cartaEnano" size="3.000000 4.367542" />
+    <ImageTarget name="cartaMujerEspadachina" size="3.000000 4.371585" />
+    <ImageTarget name="cartaPorEspadachina" size="3.000000 4.403181" />
+    <ImageTarget name="cartaFusion" size="3.000000 4.384040" />
+    <ImageTarget name="ninjaarmado" size="3.000000 4.368932" />
+    <ImageTarget name="chicamaga" size="3.000000 4.347826" />
+    <ImageTarget name="cartaCalaveraFusion" size="3.000000 4.367542" />
+    <ImageTarget name="calavera" size="3.000000 4.382812" />
+    <ImageTarget name="caballeroCarta" size="2.500000 3.656250" />
+  </Tracking>
+</QCARConfig>
